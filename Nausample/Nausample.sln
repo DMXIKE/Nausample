@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nausample", "Nausample\Nausample.csproj", "{6DC92526-4399-4EF8-B10A-28D6CA833C33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsc.Text2Speech", "Nsc.Text2Speech\Nsc.Text2Speech.csproj", "{BF7444E2-6DA3-402E-9B7E-1F2547C7494D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6DC92526-4399-4EF8-B10A-28D6CA833C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DC92526-4399-4EF8-B10A-28D6CA833C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DC92526-4399-4EF8-B10A-28D6CA833C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7444E2-6DA3-402E-9B7E-1F2547C7494D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7444E2-6DA3-402E-9B7E-1F2547C7494D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7444E2-6DA3-402E-9B7E-1F2547C7494D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7444E2-6DA3-402E-9B7E-1F2547C7494D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
